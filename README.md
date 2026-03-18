@@ -1,16 +1,41 @@
-# flutter_application_4_presentation
+***Badge-App***
 
-A new Flutter project.
+A simple Flutter app designing to demonstrate Badge widgets, specifically for notifications, shopping cart, and messages 
+__________________________________________________________________________
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+**How to Run**
 
-A few resources to get you started if this is your first Flutter project:
+    Make sure you have Flutter installed: Flutter setup guide
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    Clone this repo:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+        "git clone https://github.com/Effiong06/Badge-App.git"
+        "cd Badge-App"
+
+    Get dependencies:
+
+        "flutter pub get"
+
+    Run the app:
+
+        "flutter run"
+
+____________________________________________________________________
+
+
+ **Features**
+
+    Badge indicators for icons
+
+    Custom colors for each badge
+
+    Simple layout for presentation purposes
+
+____________________________________________________________________
+
+
+ **Screenshot**
+
+![Badge Demo](badgeapp_screenshot.png)
+
